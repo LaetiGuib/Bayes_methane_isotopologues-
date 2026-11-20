@@ -43,7 +43,7 @@ MODEL_MODE = 'BIO_ABI'      # 'TMO' (3 classes)  or  'BIO_ABI' (2 classes)
 # ---------------------------------------------------------------------------
 # 1) Files
 # ---------------------------------------------------------------------------
-DATABASE_FILE = Path(r"/Users/laetitiaguibourdenche/Documents/Documents - Copie (2)/postdoc CH4_young-leavitt/bayesian proba/final version_juillet2026/methane_isotope_database_bayes_paper_with_boreal_lakes.xlsx")
+DATABASE_FILE = Path(r"/Users//Documents/methane_isotope_database.xlsx")
 OUTPUT_DIR = Path.home() / 'Downloads' / f'{MODEL_MODE}_publication_outputs'
 
 # OPTIONAL — fit the BULK KDEs / bulk priors (S5) on the larger bulk-only
