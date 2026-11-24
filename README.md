@@ -1,6 +1,6 @@
 # Bayesian classification of methane origin from bulk and clumped isotopes
 
-Single Python script (`methane_isotopes_TMO_BIO_ABI.py`) that classifies the origin of methane from bulk (δ¹³C, δD) and clumped (Δ¹³CH₃D, Δ¹²CH₂D₂) isotope compositions with a Bayesian kernel-density (KDE) classifier. 
+Single Python script (`Bayes_methane_isotopologues.py`) that classifies the origin of methane from bulk (δ¹³C, δD) and clumped (Δ¹³CH₃D, Δ¹²CH₂D₂) isotope compositions with a Bayesian kernel-density (KDE) classifier. 
 
 
 ## Method in brief
